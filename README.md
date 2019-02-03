@@ -2,7 +2,7 @@
 
 Lightweight Api Rest example with Cowboy in Elixir
 
-Code done for this post  [api-rest-with-cowboy](https://www.google.com)
+Code done for this post  [api-rest-with-cowboy](https://jkmrto.netlify.com/posts/api-rest-with-cowboy/)
 
 To execute in interactive mode: 
 
